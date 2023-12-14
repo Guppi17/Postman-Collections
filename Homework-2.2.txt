@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note date=12/05/2022>
+<to><name>Alena</name></to>
+<lastname>Petrova</lastname>
+<from>Alex</from>
+<update>12/05/2022</update>
+</note>
