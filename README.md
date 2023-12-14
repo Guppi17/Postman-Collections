@@ -49,7 +49,7 @@
 
 - [Homework-1](https://www.postman.com/lunar-module-architect-56534528/workspace/test-workspace/collection/29321111-40968f20-b545-4718-a4ff-995b160d4478?action=share&creator=29321111&active-environment=29321111-12b56be8-f8e3-4a27-9e20-bafcb1e5f666)
 - [Homework-2.1](https://www.postman.com/lunar-module-architect-56534528/workspace/test-workspace/collection/29321111-40968f20-b545-4718-a4ff-995b160d4478?action=share&creator=29321111&active-environment=29321111-12b56be8-f8e3-4a27-9e20-bafcb1e5f666)
-- [Homework-2.2](https://github.com/Guppi17/SQL-Queries/blob/main/Homework-2)  
+- [Homework-2.2](https://github.com/Guppi17/Postman-Collections/blob/main/Homework-2.2.txt)  
 
 
   
