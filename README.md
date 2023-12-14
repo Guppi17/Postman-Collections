@@ -1,32 +1,43 @@
-# SQL-Queries 
+# Postman-Collections 
   
 
 
 
 ### Homework-1
-Предусловия: установите MySQL Server и MySQL Workbench
+Необходимо протестировать все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создать соответствующие коллекции.
 
-1. Скачайте дампы базы данных Hogwarts отсюда https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB
-2. Осуществите импорт таблиц, используя Workbench
-3. Выполните задание 1 и 2, которое вы найдете здесь https://drive.google.com/drive/u/3/folders/1Lt7CY69nR5awNs_9q0XJOHRti4vJj3Qa
+Также нужно создать папку внутри коллекции и поместить туда результаты следующих заданий:
+1. Написать тест, который проверяет статус код после удаления домашнего животного из базы
+2. Создать несколько юзеров, используя метод createdWithArray
+3. В теле запроса для создания питомца сделать динамические значения, которые будут автоматически генерироваться при отправке
+4. Ссылку на коллекцию и выполненные задания пришлите в форме ниже. Не забудьте сделать коллекцию публичной и видимой для всего интернета
 
 ︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶  
 
 
 
 
-### Homework-2  
-Предусловия: создайте аккаунт/окружение в MongoDB Atlas и скачайте MongoDB Compass
+### Homework-2.1 
+Используя следующую [WSDL](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL) создайте рабочую коллекцию в Postman, с помощью которых можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны. 
 
-1. Создайте новую базу данных Hogwarts
-2. Внутри нее создайте коллекции Characters и Library
-3. Внутри коллекций создайте документы, которые будут повторять информацию из первого задания
-4. Выведите всех персонажей, чей возраст больше 10, но меньше 20 
-5. Выведите всех персонажей, чей возраст меньше 30 и не равен 11
-6. Добавьте всем персонажам 1 год к возрасту
-7. Посчитайте общее количество персонажей, чей возраст больше 11
-8. Удалите информацию о книге 'Quidditch Through The Ages'
-9. Выведите информацию обо всех в книгах, в названиях которых содержится слово The в любом месте
+︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶  
+### Homework-2.2 
+Проверьте следующий XML на наличие ошибок:
+
+```<?xml version="1.0" encoding="UTF-8"?>
+
+<note date="12/05/2022">
+
+<to><name>Alena</to></name>
+
+<lastname>Petrova</lastname>
+
+<from>Alex</From>
+
+<update=12/05/2022><update>
+
+</note>
+```
 
 ︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶︶꒦꒷♡꒷꒦︶  
   
@@ -36,13 +47,13 @@
 
 ## Result  
 
+- [Homework-1](https://www.postman.com/lunar-module-architect-56534528/workspace/test-workspace/collection/29321111-40968f20-b545-4718-a4ff-995b160d4478?action=share&creator=29321111&active-environment=29321111-12b56be8-f8e3-4a27-9e20-bafcb1e5f666)
+- [Homework-2.1](https://www.postman.com/lunar-module-architect-56534528/workspace/test-workspace/collection/29321111-40968f20-b545-4718-a4ff-995b160d4478?action=share&creator=29321111&active-environment=29321111-12b56be8-f8e3-4a27-9e20-bafcb1e5f666)
+- [Homework-2.2](https://github.com/Guppi17/SQL-Queries/blob/main/Homework-2)  
 
-- [Homework-1](https://docs.google.com/spreadsheets/d/1YimW7aGLZih1QXWi37aAJxj8eEezGWsPFNpASx9LhUU/edit#gid=0)  
+
   
 
-- [Homework-2](https://github.com/Guppi17/SQL-Queries/blob/main/Homework-2)  
-
-
-
-
 <br/>  
+
+
