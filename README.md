@@ -1,9 +1,9 @@
 # Postman-Collections 
   
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
-</div>
 
+<div align="center">
+<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
+</div>
 
 ### Homework-1
 Необходимо протестировать все методы, которые представлены для [сервиса](https://petstore.swagger.io/) в Postman и создать соответствующие коллекции.
@@ -56,10 +56,10 @@
 - [Homework-2.2](https://github.com/Guppi17/Postman-Collections/blob/main/Homework-2.2.txt)  
 
 
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
-</div>
 
-<br/>  
+
+<div align="center">
+<img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
+</div>
 
 
